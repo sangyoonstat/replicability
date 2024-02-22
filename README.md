@@ -1,3 +1,3 @@
 # replicability
 
-The files here are directly downloaded \url{https://osf.io/y3gae/files/osfstorage}
+The files here are directly downloaded from https://osf.io/y3gae/files/osfstorage.

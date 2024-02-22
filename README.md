@@ -1,8 +1,8 @@
 # replicability
 
-The files here are directly downloaded from https://osf.io/y3gae/files/osfstorage.
+The files here are directly downloaded from https://osf.io/y3gae/files/osfstorage. There are much more in the original repository but I only posted a few that seem to be relevant for us for now.
 
-1) You can find the two files in the folder JL14 (Jager and Leek, 2014).
+1) You can find the two files in the folder JL14 ([Jager and Leek, 2014](https://academic.oup.com/biostatistics/article/15/1/1/244509)).
 - `journalAnalysis.R`: R script for data analysis
 - `pvalueData.rda`: R environment file having the data
   
